@@ -1,0 +1,12 @@
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\bin\Debug\net5.0\BasicAuthWasm.Shared.deps.json
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\bin\Debug\net5.0\BasicAuthWasm.Shared.dll
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\bin\Debug\net5.0\ref\BasicAuthWasm.Shared.dll
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\bin\Debug\net5.0\BasicAuthWasm.Shared.pdb
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\obj\Debug\net5.0\BasicAuthWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\obj\Debug\net5.0\BasicAuthWasm.Shared.AssemblyInfoInputs.cache
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\obj\Debug\net5.0\BasicAuthWasm.Shared.AssemblyInfo.cs
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\obj\Debug\net5.0\BasicAuthWasm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\obj\Debug\net5.0\BasicAuthWasm.Shared.dll
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\obj\Debug\net5.0\ref\BasicAuthWasm.Shared.dll
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\obj\Debug\net5.0\BasicAuthWasm.Shared.pdb
+C:\Users\R041804057\Downloads\BasicAuthWasm\BasicAuthWasm\BasicAuthWasm\Shared\obj\Debug\net5.0\BasicAuthWasm.Shared.csprojAssemblyReference.cache
